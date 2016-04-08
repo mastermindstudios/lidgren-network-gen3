@@ -1,4 +1,4 @@
-﻿﻿﻿#if UNITY
+﻿﻿﻿#if UNITY && UNITY_EXTRAS
 using UnityEngine;
 
 namespace Lidgren.Network
